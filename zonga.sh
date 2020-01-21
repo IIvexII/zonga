@@ -18,7 +18,7 @@ echo "                            /____\___/|_| \_|\____/_/   \_\ "
 echo
 
 sleep .3
-echo "                               $(tput setaf 2)Written By: Anonymous"
+echo "                               $(tput setaf 2)Written By: Zafeer"
 echo 
 sleep .1
 echo "                                  $(tput setaf 1)***DISCLAIMER***"
